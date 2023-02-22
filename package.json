@@ -1,0 +1,21 @@
+{
+  "name": "url-override-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonychoy/url-override-issue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonychoy/url-override-issue/issues"
+  },
+  "homepage": "https://github.com/simonychoy/url-override-issue#readme",
+  "devDependencies": {
+    "@playwright/test": "1.31.0"
+  }
+}
