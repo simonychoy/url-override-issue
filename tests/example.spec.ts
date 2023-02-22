@@ -11,5 +11,5 @@ test("Evaluate script on page where URL is overridden", async ({ page }) => {
     const { text } = data;
     return { myTextData: text };
   }, data);
-  expect(result).toBe({ myTextData: "some data" });
+  expect(result).toEqual({ myTextData: "some data" });
 });
